@@ -1,2 +1,2 @@
 # Not-a-Dog
-Duck
+Duck || Chicken
